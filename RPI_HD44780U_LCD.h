@@ -34,14 +34,14 @@
 
 //FunctionSet
 
-#define EightBits                       0b00010000
-#define FourBits                       0b00000000
+#define EightBits                   0b00010000
+#define FourBits                    0b00000000
 
-#define TwoLines                      0b00001000
-#define OneLine                       0b00000000
+#define TwoLines                    0b00001000
+#define OneLine                     0b00000000
 
-#define Font5x8                         0b00000000
-#define Font5x10                        0b00000100
+#define Font5x8                     0b00000000
+#define Font5x10                    0b00000100
 
 
 class LCD_display {
