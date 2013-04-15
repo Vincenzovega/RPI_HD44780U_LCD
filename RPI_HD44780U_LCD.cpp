@@ -1,4 +1,4 @@
-#include "lcd.h"
+#include "RPI_HD44780U_LCD.h"
 #include <stdio.h>
 
 
